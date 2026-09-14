@@ -14,7 +14,7 @@ It supports original fiction, public-domain adaptations, literary criticism, and
 properly licensed narrative projects. This clean distribution contains no
 case-study research, manuscript, map, or generated edition.
 
-Story Foundry is available under the [MIT License](LICENSE.md).
+Story Foundry is available under the [MIT License](LICENSE).
 
 ## Approach
 
