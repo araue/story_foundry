@@ -1,0 +1,11 @@
+/* Reader-neutral typography. The application chooses page appearance. */
+body { font-family: serif; line-height: 1.45; }
+p { widows: 2; orphans: 2; }
+blockquote { font-style: italic; }
+.titlepage .abstract { margin-top: 1.25em; font-size: 0.68em; line-height: 1.35; }
+.titlepage .abstract-title { display: none; }
+.titlepage .abstract p { margin: 0 0 0.8em; }
+section.map-page { page-break-before: always; page-break-after: always; break-before: page; break-after: page; margin: 0; padding: 0; }
+section.map-page > h1, section.map-page figcaption { display: none; }
+section.map-page figure, section.map-page p { margin: 0; padding: 0; text-align: center; }
+img.story-map { display: block; width: 100%; height: auto; margin: 0 auto; }
