@@ -24,6 +24,12 @@ partly as a complex project: evidence, assumptions, dependencies, interfaces,
 state, and revisions live in small, versionable files instead of only in a
 conversation or an opaque draft.
 
+![The Story Foundry workflow: human editorial direction guides research in phases 1–3, decisions in phase 4, story design in phases 5–7, and writing and review in phase 8. A versioned repository provides shared editorial memory, and drafting gaps return to assumptions or architecture.](assets/editorial-agent-workflow.svg)
+
+*How far can coding agents go in creative work? The experiment brings persistent
+project memory, connected plans, and repeatable revision into literary research
+and writing—with human judgment guiding every stage.*
+
 The agent is a research partner and drafting collaborator; the editor decides
 what the work means. Successive approval gates let the editor reject an
 interpretation, choose among alternatives, redirect a theme, preserve a mystery,
