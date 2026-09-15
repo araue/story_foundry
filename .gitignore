@@ -14,3 +14,31 @@ __pycache__/
 
 # Generated reader editions
 dist/*.epub
+
+# Individual project content; retain only template placeholders in this public repository
+analysis/*
+!analysis/index.md
+characters/*
+!characters/index.md
+questions/*
+!questions/index.md
+assumptions/*
+!assumptions/index.md
+story/*
+!story/index.md
+!story/chapter_briefs/
+story/chapter_briefs/*
+!story/chapter_briefs/index.md
+arcs/*
+!arcs/index.md
+cast/*
+!cast/index.md
+world/*
+!world/index.md
+!world/maps/
+world/maps/*
+!world/maps/.gitkeep
+manuscript/*
+!manuscript/index.md
+!manuscript/edition_notice.md
+epub/map.md
